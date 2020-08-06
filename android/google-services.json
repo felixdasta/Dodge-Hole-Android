@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "322397168857",
+    "firebase_url": "https://dodge-hole-69529294.firebaseio.com",
+    "project_id": "dodge-hole-69529294",
+    "storage_bucket": "dodge-hole-69529294.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322397168857:android:a24a4be0cf13c9b85d8ac8",
+        "android_client_info": {
+          "package_name": "com.threepartnersinteractive.dodgehole"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322397168857-ctbjru67t7lubs03eq39dn23l866ebdp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.threepartnersinteractive.dodgehole",
+            "certificate_hash": "18ab89bb89eb2f1876a1cbeeb8937063b931b6b0"
+          }
+        },
+        {
+          "client_id": "322397168857-hg75ljk1ope9eq4ang890mr3c6et1r79.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.threepartnersinteractive.dodgehole",
+            "certificate_hash": "b8aa1f247c29448d50b09482d8b276ac78eea63d"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaDHddnzLS21W2m7Q6dWw2RygFk8Lk-T8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
